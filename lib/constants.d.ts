@@ -1,0 +1,2 @@
+export declare const LOGGER_WINSTON_TOKEN = "LOGGER_WINSTON_TOKEN";
+export declare const LOGGER_GLOBAL_NAME = "LOGGER_GLOBAL";
